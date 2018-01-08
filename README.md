@@ -1,0 +1,3 @@
+A simple Android Studio project that demonstrates the use of the class `SlidingPanelBehavior` that provides all the  functionality of `AppBarLayout.ScrollingViewBehavior` but allows a view that implements the `NestedScrollingChild2` interface, such as `RecyclerView`, to slide up and down as a panel. This sliding panel effect is similar to the functionality of the day/week/month/agenda view of the Google Calendar app when the month toggle is clicked in the toolbar and a concise calendar month slides down from the top and the day/week/month/agenda view slides down below it.
+
+![alt text](/SlidingPanelVideo.gif "SlidingPanelDemo")
